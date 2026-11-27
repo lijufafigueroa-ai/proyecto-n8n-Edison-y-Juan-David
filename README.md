@@ -5,7 +5,7 @@ Bot de Telegram construido en **n8n** que conecta estudiantes con tutores según
 ## Integrantes
 
 - Edison Alberto Aparicio Pérez
-- Juan David
+- Juan David Figueroa
 
 ## Tecnologías
 
