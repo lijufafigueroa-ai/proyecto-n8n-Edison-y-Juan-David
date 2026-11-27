@@ -37,7 +37,7 @@ Telegram Trigger → Leer SESSIONS → Leer ESTUDIANTES → Leer TUTORES
 
 El nodo **Motor** concentra la lógica: lee el estado de la sesión del usuario, decide la respuesta (máquina de estados del wizard) y devuelve qué hay que guardar o notificar. Las ramas siguientes solo ejecutan esa decisión.
 
-![Flujo principal](docs/capturas/00_flujo_principal.png)
+![Flujo principal](docs/capturas/00_flujo_principal.png.jpeg)
 
 ## Modelo de datos (TutorBot_DB)
 
@@ -95,13 +95,12 @@ El nodo **Motor** concentra la lógica: lee el estado de la sesión del usuario,
 | Cancelar | Estado Cancelada y la franja queda libre |
 
 ## Capturas
-
-![Registro](docs/capturas/01_registro.png)
-![Solicitar tutoría](docs/capturas/02_solicitar.png)
-![Aviso al tutor](docs/capturas/03_aviso_tutor.png)
-![Mis tutorías](docs/capturas/04_mis_tutorias.png)
-![Doble reserva evitada](docs/capturas/05_doble_reserva.png)
-![Hoja TUTORIAS](docs/capturas/06_hoja_tutorias.png)
+![Registro](docs/capturas/01_registro.png.png)
+![Solicitar tutoría](docs/capturas/02_solicitar.png.png)
+![Aviso al tutor](docs/capturas/03_aviso_tutor.png.jpeg)
+![Mis tutorías](docs/capturas/04_mis_tutorias.png.jpeg)
+![Doble reserva evitada](docs/capturas/05_doble_reserva.png.png)
+![Hoja TUTORIAS](docs/capturas/06_hoja_tutorias.png.png)
 
 ## Base de datos
 
